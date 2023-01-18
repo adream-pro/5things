@@ -104,7 +104,7 @@ body{
 }
 
 .grid{
-    margin: 0;
+    margin: 1px;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 30px;
@@ -139,6 +139,7 @@ body{
 }
 
 .text{
+    text-align: justify;
     padding: 0 20px 20px;
     font-family: 'Calibri';
 }

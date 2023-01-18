@@ -162,35 +162,4 @@ body{
     font-family: 'Calibri';
 }
 
-@media (max-width: 850px){
-    .grid{
-        margin: 30px;
-        grid-template-columns: repeat(1, 1fr);
-    }
 
-    .grid > article{
-        text-align: center;
-    }
-}
-
-@media (max-width: 400px){
-    .grid{
-        margin: 15px;
-        grid-template-columns: repeat(1, 1fr);
-    }
-
-    .grid > article{
-        text-align: center;
-    }
-}
-
-@media (max-width: 375px){
-    .grid{
-        margin: 10px;
-        grid-template-columns: repeat(1, 1fr);
-    }
-
-    .grid > article{
-        text-align: center;
-    }
-}

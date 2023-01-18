@@ -118,7 +118,7 @@ body{
     border-radius: 5px;
     text-align: center;
     text-align: justify;
-    width: 100%;
+    width: 350px;
     transition: transform .3s;
 }
 
